@@ -1,0 +1,13 @@
+# Node.js
+/node_modules/
+/package-lock.json
+
+# Temporary files
+.DS_Store
+*.log
+*.tmp
+/temp/
+/build/
+
+# Specific to this project
+output.mp4
